@@ -1,0 +1,651 @@
+13:29:05.656 INFO  Loading commands... 
+13:29:06.517 DEBUG Skipping slash command avatar. Disabled! 
+13:29:06.553 DEBUG Skipping slash command botinvite. Disabled! 
+13:29:06.685 DEBUG Skipping slash command botstats. Disabled! 
+13:29:06.805 DEBUG Skipping slash command channelinfo. Disabled! 
+13:29:06.819 DEBUG Skipping slash command emojiinfo. Disabled! 
+13:29:06.836 DEBUG Skipping slash command guildinfo. Disabled! 
+13:29:07.076 DEBUG Skipping command bot. Disabled! 
+13:29:07.087 DEBUG Skipping command info. Disabled! 
+13:29:07.096 DEBUG Skipping slash command uptime. Disabled! 
+13:29:07.106 DEBUG Skipping slash command userinfo. Disabled! 
+13:29:07.370 DEBUG Skipping slash command deafen. Disabled! 
+13:29:07.430 DEBUG Skipping slash command disconnect. Disabled! 
+13:29:07.461 DEBUG Skipping slash command move. Disabled! 
+13:29:07.487 DEBUG Skipping slash command purge. Disabled! 
+13:29:07.491 DEBUG Skipping slash command purgeattach. Disabled! 
+13:29:07.528 DEBUG Skipping slash command purgebots. Disabled! 
+13:29:07.537 DEBUG Skipping slash command purgelinks. Disabled! 
+13:29:07.543 DEBUG Skipping slash command purgetoken. Disabled! 
+13:29:07.552 DEBUG Skipping slash command purgeuser. Disabled! 
+13:29:07.578 DEBUG Skipping command purge. Disabled! 
+13:29:07.612 DEBUG Skipping command voice. Disabled! 
+13:29:07.631 DEBUG Skipping slash command undeafen. Disabled! 
+13:29:07.643 DEBUG Skipping slash command vmute. Disabled! 
+13:29:07.656 DEBUG Skipping slash command vunmute. Disabled! 
+13:29:08.182 INFO  Loaded 89 commands 
+13:29:08.243 INFO  Loaded 73 slash commands 
+13:29:08.282 INFO  Loading contexts... 
+13:29:08.382 INFO  Loaded 2 USER contexts 
+13:29:08.467 INFO  Loaded 0 MESSAGE contexts 
+13:29:08.532 INFO  Loading events... 
+13:29:09.196 INFO  Loaded 22 events. Success (22) Failed (0) 
+13:29:10.453 INFO  VersionCheck: Your discord bot is up to date 
+13:29:10.456 INFO  Validating config.js and environment variables 
+13:29:10.457 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+13:29:10.463 WARN  config.js: OWNER_IDS are empty 
+13:29:10.465 WARN  config.js: SUPPORT_SERVER is not provided 
+13:29:10.467 INFO  Connecting to MongoDb... 
+13:29:15.989 INFO  Mongoose: Database connection established 
+13:29:17.536 ERROR Privileged intent provided is not enabled or whitelisted.
+{}
+Error [DISALLOWED_INTENTS]: Privileged intent provided is not enabled or whitelisted.
+    at WebSocketManager.createShards (C:\Users\busin\Desktop\auxxbot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:250:15)
+    at async BotClient.login (C:\Users\busin\Desktop\auxxbot\node_modules\discord.js\src\client\Client.js:254:7)
+    at async C:\Users\busin\Desktop\auxxbot\bot.js:32:3 
+14:07:19.789 INFO  Loading commands... 
+14:07:19.949 DEBUG Skipping slash command avatar. Disabled! 
+14:07:19.955 DEBUG Skipping slash command botinvite. Disabled! 
+14:07:19.964 DEBUG Skipping slash command botstats. Disabled! 
+14:07:19.967 DEBUG Skipping slash command channelinfo. Disabled! 
+14:07:19.972 DEBUG Skipping slash command emojiinfo. Disabled! 
+14:07:19.975 DEBUG Skipping slash command guildinfo. Disabled! 
+14:07:19.996 DEBUG Skipping command bot. Disabled! 
+14:07:19.998 DEBUG Skipping command info. Disabled! 
+14:07:20.000 DEBUG Skipping slash command uptime. Disabled! 
+14:07:20.004 DEBUG Skipping slash command userinfo. Disabled! 
+14:07:20.039 DEBUG Skipping slash command deafen. Disabled! 
+14:07:20.043 DEBUG Skipping slash command disconnect. Disabled! 
+14:07:20.047 DEBUG Skipping slash command move. Disabled! 
+14:07:20.050 DEBUG Skipping slash command purge. Disabled! 
+14:07:20.053 DEBUG Skipping slash command purgeattach. Disabled! 
+14:07:20.055 DEBUG Skipping slash command purgebots. Disabled! 
+14:07:20.057 DEBUG Skipping slash command purgelinks. Disabled! 
+14:07:20.059 DEBUG Skipping slash command purgetoken. Disabled! 
+14:07:20.060 DEBUG Skipping slash command purgeuser. Disabled! 
+14:07:20.065 DEBUG Skipping command purge. Disabled! 
+14:07:20.071 DEBUG Skipping command voice. Disabled! 
+14:07:20.076 DEBUG Skipping slash command undeafen. Disabled! 
+14:07:20.079 DEBUG Skipping slash command vmute. Disabled! 
+14:07:20.081 DEBUG Skipping slash command vunmute. Disabled! 
+14:07:20.155 INFO  Loaded 89 commands 
+14:07:20.156 INFO  Loaded 73 slash commands 
+14:07:20.158 INFO  Loading contexts... 
+14:07:20.163 INFO  Loaded 2 USER contexts 
+14:07:20.195 INFO  Loaded 0 MESSAGE contexts 
+14:07:20.223 INFO  Loading events... 
+14:07:20.337 INFO  Loaded 22 events. Success (22) Failed (0) 
+14:07:20.923 INFO  VersionCheck: Your discord bot is up to date 
+14:07:20.923 INFO  Validating config.js and environment variables 
+14:07:20.923 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+14:07:20.924 WARN  config.js: OWNER_IDS are empty 
+14:07:20.924 WARN  config.js: SUPPORT_SERVER is not provided 
+14:07:20.925 INFO  Connecting to MongoDb... 
+14:07:26.321 INFO  Mongoose: Database connection established 
+14:07:27.717 ERROR Privileged intent provided is not enabled or whitelisted.
+{}
+Error [DISALLOWED_INTENTS]: Privileged intent provided is not enabled or whitelisted.
+    at WebSocketManager.createShards (C:\Users\busin\Desktop\auxxbot\node_modules\discord.js\src\client\websocket\WebSocketManager.js:250:15)
+    at async BotClient.login (C:\Users\busin\Desktop\auxxbot\node_modules\discord.js\src\client\Client.js:254:7)
+    at async C:\Users\busin\Desktop\auxxbot\bot.js:32:3 
+14:08:58.856 INFO  Loading commands... 
+14:08:58.956 DEBUG Skipping slash command avatar. Disabled! 
+14:08:58.958 DEBUG Skipping slash command botinvite. Disabled! 
+14:08:58.962 DEBUG Skipping slash command botstats. Disabled! 
+14:08:58.965 DEBUG Skipping slash command channelinfo. Disabled! 
+14:08:58.967 DEBUG Skipping slash command emojiinfo. Disabled! 
+14:08:58.969 DEBUG Skipping slash command guildinfo. Disabled! 
+14:08:58.980 DEBUG Skipping command bot. Disabled! 
+14:08:58.981 DEBUG Skipping command info. Disabled! 
+14:08:58.982 DEBUG Skipping slash command uptime. Disabled! 
+14:08:58.983 DEBUG Skipping slash command userinfo. Disabled! 
+14:08:59.003 DEBUG Skipping slash command deafen. Disabled! 
+14:08:59.005 DEBUG Skipping slash command disconnect. Disabled! 
+14:08:59.007 DEBUG Skipping slash command move. Disabled! 
+14:08:59.009 DEBUG Skipping slash command purge. Disabled! 
+14:08:59.010 DEBUG Skipping slash command purgeattach. Disabled! 
+14:08:59.011 DEBUG Skipping slash command purgebots. Disabled! 
+14:08:59.012 DEBUG Skipping slash command purgelinks. Disabled! 
+14:08:59.013 DEBUG Skipping slash command purgetoken. Disabled! 
+14:08:59.014 DEBUG Skipping slash command purgeuser. Disabled! 
+14:08:59.020 DEBUG Skipping command purge. Disabled! 
+14:08:59.022 DEBUG Skipping command voice. Disabled! 
+14:08:59.025 DEBUG Skipping slash command undeafen. Disabled! 
+14:08:59.027 DEBUG Skipping slash command vmute. Disabled! 
+14:08:59.028 DEBUG Skipping slash command vunmute. Disabled! 
+14:08:59.069 INFO  Loaded 89 commands 
+14:08:59.069 INFO  Loaded 73 slash commands 
+14:08:59.070 INFO  Loading contexts... 
+14:08:59.073 INFO  Loaded 2 USER contexts 
+14:08:59.074 INFO  Loaded 0 MESSAGE contexts 
+14:08:59.074 INFO  Loading events... 
+14:08:59.136 INFO  Loaded 22 events. Success (22) Failed (0) 
+14:08:59.753 INFO  VersionCheck: Your discord bot is up to date 
+14:08:59.753 INFO  Validating config.js and environment variables 
+14:08:59.754 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+14:08:59.754 WARN  config.js: OWNER_IDS are empty 
+14:08:59.754 WARN  config.js: SUPPORT_SERVER is not provided 
+14:08:59.755 INFO  Connecting to MongoDb... 
+14:09:05.013 INFO  Mongoose: Database connection established 
+14:09:07.817 INFO  Logged in as auxx.bot#4341! (980696265576841217) 
+14:09:07.817 INFO  Initializing music manager 
+14:09:08.150 INFO  Node "54.37.6.86" connected 
+14:11:42.076 ERROR message.safeReply is not a function
+{}
+TypeError: message.safeReply is not a function
+    at DailyCommand.messageRun (C:\Users\busin\Desktop\auxxbot\src\commands\economy\daily.js:29:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async DailyCommand.executeCommand (C:\Users\busin\Desktop\auxxbot\src\structures\Command.js:160:7) 
+14:12:07.714 ERROR message.safeReply is not a function
+{}
+TypeError: message.safeReply is not a function
+    at Gamble.messageRun (C:\Users\busin\Desktop\auxxbot\src\commands\economy\gamble.js:42:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Gamble.executeCommand (C:\Users\busin\Desktop\auxxbot\src\structures\Command.js:160:7) 
+14:14:32.763 INFO  Loading commands... 
+14:14:32.930 DEBUG Skipping slash command avatar. Disabled! 
+14:14:32.933 DEBUG Skipping slash command botinvite. Disabled! 
+14:14:32.938 DEBUG Skipping slash command botstats. Disabled! 
+14:14:32.941 DEBUG Skipping slash command channelinfo. Disabled! 
+14:14:32.943 DEBUG Skipping slash command emojiinfo. Disabled! 
+14:14:32.946 DEBUG Skipping slash command guildinfo. Disabled! 
+14:14:32.960 DEBUG Skipping command bot. Disabled! 
+14:14:32.962 DEBUG Skipping command info. Disabled! 
+14:14:32.963 DEBUG Skipping slash command uptime. Disabled! 
+14:14:32.965 DEBUG Skipping slash command userinfo. Disabled! 
+14:14:32.990 DEBUG Skipping slash command deafen. Disabled! 
+14:14:32.992 DEBUG Skipping slash command disconnect. Disabled! 
+14:14:32.995 DEBUG Skipping slash command move. Disabled! 
+14:14:32.997 DEBUG Skipping slash command purge. Disabled! 
+14:14:32.998 DEBUG Skipping slash command purgeattach. Disabled! 
+14:14:33.000 DEBUG Skipping slash command purgebots. Disabled! 
+14:14:33.002 DEBUG Skipping slash command purgelinks. Disabled! 
+14:14:33.003 DEBUG Skipping slash command purgetoken. Disabled! 
+14:14:33.004 DEBUG Skipping slash command purgeuser. Disabled! 
+14:14:33.008 DEBUG Skipping command purge. Disabled! 
+14:14:33.013 DEBUG Skipping command voice. Disabled! 
+14:14:33.018 DEBUG Skipping slash command undeafen. Disabled! 
+14:14:33.020 DEBUG Skipping slash command vmute. Disabled! 
+14:14:33.021 DEBUG Skipping slash command vunmute. Disabled! 
+14:14:33.072 INFO  Loaded 89 commands 
+14:14:33.072 INFO  Loaded 73 slash commands 
+14:14:33.073 INFO  Loading contexts... 
+14:14:33.077 INFO  Loaded 2 USER contexts 
+14:14:33.077 INFO  Loaded 0 MESSAGE contexts 
+14:14:33.077 INFO  Loading events... 
+14:14:33.201 INFO  Loaded 22 events. Success (22) Failed (0) 
+14:14:33.798 INFO  VersionCheck: Your discord bot is up to date 
+14:14:33.798 INFO  Validating config.js and environment variables 
+14:14:33.798 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+14:14:33.799 WARN  config.js: OWNER_IDS are empty 
+14:14:33.799 WARN  config.js: SUPPORT_SERVER is not provided 
+14:14:33.799 INFO  Connecting to MongoDb... 
+14:14:39.106 INFO  Mongoose: Database connection established 
+14:14:42.023 INFO  Logged in as auxx.bot#4341! (980696265576841217) 
+14:14:42.023 INFO  Initializing music manager 
+14:14:42.349 INFO  Node "54.37.6.86" connected 
+14:15:52.235 INFO  Loading commands... 
+14:15:52.321 DEBUG Skipping slash command avatar. Disabled! 
+14:15:52.323 DEBUG Skipping slash command botinvite. Disabled! 
+14:15:52.328 DEBUG Skipping slash command botstats. Disabled! 
+14:15:52.329 DEBUG Skipping slash command channelinfo. Disabled! 
+14:15:52.331 DEBUG Skipping slash command emojiinfo. Disabled! 
+14:15:52.333 DEBUG Skipping slash command guildinfo. Disabled! 
+14:15:52.343 DEBUG Skipping command bot. Disabled! 
+14:15:52.344 DEBUG Skipping command info. Disabled! 
+14:15:52.345 DEBUG Skipping slash command uptime. Disabled! 
+14:15:52.346 DEBUG Skipping slash command userinfo. Disabled! 
+14:15:52.363 DEBUG Skipping slash command deafen. Disabled! 
+14:15:52.365 DEBUG Skipping slash command disconnect. Disabled! 
+14:15:52.367 DEBUG Skipping slash command move. Disabled! 
+14:15:52.369 DEBUG Skipping slash command purge. Disabled! 
+14:15:52.370 DEBUG Skipping slash command purgeattach. Disabled! 
+14:15:52.371 DEBUG Skipping slash command purgebots. Disabled! 
+14:15:52.372 DEBUG Skipping slash command purgelinks. Disabled! 
+14:15:52.373 DEBUG Skipping slash command purgetoken. Disabled! 
+14:15:52.374 DEBUG Skipping slash command purgeuser. Disabled! 
+14:15:52.377 DEBUG Skipping command purge. Disabled! 
+14:15:52.380 DEBUG Skipping command voice. Disabled! 
+14:15:52.383 DEBUG Skipping slash command undeafen. Disabled! 
+14:15:52.385 DEBUG Skipping slash command vmute. Disabled! 
+14:15:52.386 DEBUG Skipping slash command vunmute. Disabled! 
+14:15:52.425 INFO  Loaded 89 commands 
+14:15:52.425 INFO  Loaded 73 slash commands 
+14:15:52.426 INFO  Loading contexts... 
+14:15:52.429 INFO  Loaded 2 USER contexts 
+14:15:52.429 INFO  Loaded 0 MESSAGE contexts 
+14:15:52.430 INFO  Loading events... 
+14:15:52.489 INFO  Loaded 22 events. Success (22) Failed (0) 
+14:15:53.133 INFO  VersionCheck: Your discord bot is up to date 
+14:15:53.134 INFO  Validating config.js and environment variables 
+14:15:53.134 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+14:15:53.135 WARN  config.js: OWNER_IDS are empty 
+14:15:53.135 WARN  config.js: SUPPORT_SERVER is not provided 
+14:15:53.135 INFO  Connecting to MongoDb... 
+14:15:58.371 INFO  Mongoose: Database connection established 
+14:16:00.613 INFO  Logged in as auxx.bot#4341! (980696265576841217) 
+14:16:00.614 INFO  Initializing music manager 
+14:16:00.939 INFO  Node "54.37.6.86" connected 
+14:17:17.364 INFO  Loading commands... 
+14:17:17.457 DEBUG Skipping slash command avatar. Disabled! 
+14:17:17.459 DEBUG Skipping slash command botinvite. Disabled! 
+14:17:17.463 DEBUG Skipping slash command botstats. Disabled! 
+14:17:17.465 DEBUG Skipping slash command channelinfo. Disabled! 
+14:17:17.470 DEBUG Skipping slash command emojiinfo. Disabled! 
+14:17:17.473 DEBUG Skipping slash command guildinfo. Disabled! 
+14:17:17.482 DEBUG Skipping command bot. Disabled! 
+14:17:17.483 DEBUG Skipping command info. Disabled! 
+14:17:17.484 DEBUG Skipping slash command uptime. Disabled! 
+14:17:17.485 DEBUG Skipping slash command userinfo. Disabled! 
+14:17:17.502 DEBUG Skipping slash command deafen. Disabled! 
+14:17:17.504 DEBUG Skipping slash command disconnect. Disabled! 
+14:17:17.506 DEBUG Skipping slash command move. Disabled! 
+14:17:17.508 DEBUG Skipping slash command purge. Disabled! 
+14:17:17.509 DEBUG Skipping slash command purgeattach. Disabled! 
+14:17:17.512 DEBUG Skipping slash command purgebots. Disabled! 
+14:17:17.513 DEBUG Skipping slash command purgelinks. Disabled! 
+14:17:17.514 DEBUG Skipping slash command purgetoken. Disabled! 
+14:17:17.515 DEBUG Skipping slash command purgeuser. Disabled! 
+14:17:17.518 DEBUG Skipping command purge. Disabled! 
+14:17:17.519 DEBUG Skipping command voice. Disabled! 
+14:17:17.522 DEBUG Skipping slash command undeafen. Disabled! 
+14:17:17.524 DEBUG Skipping slash command vmute. Disabled! 
+14:17:17.525 DEBUG Skipping slash command vunmute. Disabled! 
+14:17:17.565 INFO  Loaded 89 commands 
+14:17:17.565 INFO  Loaded 73 slash commands 
+14:17:17.566 INFO  Loading contexts... 
+14:17:17.570 INFO  Loaded 2 USER contexts 
+14:17:17.570 INFO  Loaded 0 MESSAGE contexts 
+14:17:17.570 INFO  Loading events... 
+14:17:17.627 INFO  Loaded 22 events. Success (22) Failed (0) 
+14:17:18.171 INFO  VersionCheck: Your discord bot is up to date 
+14:17:18.171 INFO  Validating config.js and environment variables 
+14:17:18.172 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+14:17:18.172 WARN  config.js: OWNER_IDS are empty 
+14:17:18.172 WARN  config.js: SUPPORT_SERVER is not provided 
+14:17:18.173 INFO  Connecting to MongoDb... 
+14:17:23.684 INFO  Mongoose: Database connection established 
+14:17:25.568 INFO  Logged in as auxx.bot#4341! (980696265576841217) 
+14:17:25.568 INFO  Initializing music manager 
+14:17:25.894 INFO  Node "54.37.6.86" connected 
+14:27:44.980 INFO  Guild Joined: 𝐏𝐚𝐧𝐝𝐚'𝐬 𝐔𝐧𝐝𝐞𝐫𝐰𝐨𝐥𝐝 Members: 27 
+14:34:03.030 INFO  Loading commands... 
+14:34:03.128 DEBUG Skipping slash command avatar. Disabled! 
+14:34:03.131 DEBUG Skipping slash command botinvite. Disabled! 
+14:34:03.135 DEBUG Skipping slash command botstats. Disabled! 
+14:34:03.138 DEBUG Skipping slash command channelinfo. Disabled! 
+14:34:03.140 DEBUG Skipping slash command emojiinfo. Disabled! 
+14:34:03.143 DEBUG Skipping slash command guildinfo. Disabled! 
+14:34:03.153 DEBUG Skipping command bot. Disabled! 
+14:34:03.155 DEBUG Skipping command info. Disabled! 
+14:34:03.157 DEBUG Skipping slash command uptime. Disabled! 
+14:34:03.158 DEBUG Skipping slash command userinfo. Disabled! 
+14:34:03.178 DEBUG Skipping slash command deafen. Disabled! 
+14:34:03.180 DEBUG Skipping slash command disconnect. Disabled! 
+14:34:03.183 DEBUG Skipping slash command move. Disabled! 
+14:34:03.184 DEBUG Skipping slash command purge. Disabled! 
+14:34:03.186 DEBUG Skipping slash command purgeattach. Disabled! 
+14:34:03.187 DEBUG Skipping slash command purgebots. Disabled! 
+14:34:03.188 DEBUG Skipping slash command purgelinks. Disabled! 
+14:34:03.189 DEBUG Skipping slash command purgetoken. Disabled! 
+14:34:03.190 DEBUG Skipping slash command purgeuser. Disabled! 
+14:34:03.193 DEBUG Skipping command purge. Disabled! 
+14:34:03.198 DEBUG Skipping command voice. Disabled! 
+14:34:03.201 DEBUG Skipping slash command undeafen. Disabled! 
+14:34:03.203 DEBUG Skipping slash command vmute. Disabled! 
+14:34:03.204 DEBUG Skipping slash command vunmute. Disabled! 
+14:34:03.245 INFO  Loaded 89 commands 
+14:34:03.245 INFO  Loaded 73 slash commands 
+14:34:03.246 INFO  Loading contexts... 
+14:34:03.250 INFO  Loaded 2 USER contexts 
+14:34:03.250 INFO  Loaded 0 MESSAGE contexts 
+14:34:03.250 INFO  Loading events... 
+14:34:03.316 INFO  Loaded 22 events. Success (22) Failed (0) 
+14:34:03.870 INFO  VersionCheck: Your discord bot is up to date 
+14:34:03.870 INFO  Validating config.js and environment variables 
+14:34:03.871 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+14:34:03.871 WARN  config.js: OWNER_IDS are empty 
+14:34:03.871 WARN  config.js: SUPPORT_SERVER is not provided 
+14:34:03.872 INFO  Connecting to MongoDb... 
+14:34:09.179 INFO  Mongoose: Database connection established 
+14:34:11.136 INFO  Logged in as auxx.bot#4341! (980696265576841217) 
+14:34:11.137 INFO  Initializing music manager 
+14:34:11.461 INFO  Node "54.37.6.86" connected 
+14:48:24.855 INFO  Loading commands... 
+14:48:24.944 DEBUG Skipping slash command avatar. Disabled! 
+14:48:24.946 DEBUG Skipping slash command botinvite. Disabled! 
+14:48:24.950 DEBUG Skipping slash command botstats. Disabled! 
+14:48:24.952 DEBUG Skipping slash command channelinfo. Disabled! 
+14:48:24.954 DEBUG Skipping slash command emojiinfo. Disabled! 
+14:48:24.956 DEBUG Skipping slash command guildinfo. Disabled! 
+14:48:24.966 DEBUG Skipping command bot. Disabled! 
+14:48:24.967 DEBUG Skipping command info. Disabled! 
+14:48:24.969 DEBUG Skipping slash command uptime. Disabled! 
+14:48:24.970 DEBUG Skipping slash command userinfo. Disabled! 
+14:48:24.988 DEBUG Skipping slash command deafen. Disabled! 
+14:48:24.990 DEBUG Skipping slash command disconnect. Disabled! 
+14:48:24.993 DEBUG Skipping slash command move. Disabled! 
+14:48:24.995 DEBUG Skipping slash command purge. Disabled! 
+14:48:24.996 DEBUG Skipping slash command purgeattach. Disabled! 
+14:48:24.997 DEBUG Skipping slash command purgebots. Disabled! 
+14:48:24.998 DEBUG Skipping slash command purgelinks. Disabled! 
+14:48:24.999 DEBUG Skipping slash command purgetoken. Disabled! 
+14:48:25.000 DEBUG Skipping slash command purgeuser. Disabled! 
+14:48:25.003 DEBUG Skipping command purge. Disabled! 
+14:48:25.007 DEBUG Skipping command voice. Disabled! 
+14:48:25.010 DEBUG Skipping slash command undeafen. Disabled! 
+14:48:25.012 DEBUG Skipping slash command vmute. Disabled! 
+14:48:25.013 DEBUG Skipping slash command vunmute. Disabled! 
+14:48:25.054 INFO  Loaded 89 commands 
+14:48:25.054 INFO  Loaded 73 slash commands 
+14:48:25.055 INFO  Loading contexts... 
+14:48:25.058 INFO  Loaded 2 USER contexts 
+14:48:25.059 INFO  Loaded 0 MESSAGE contexts 
+14:48:25.059 INFO  Loading events... 
+14:48:25.121 INFO  Loaded 22 events. Success (22) Failed (0) 
+14:48:25.711 INFO  VersionCheck: Your discord bot is up to date 
+14:48:25.712 INFO  Validating config.js and environment variables 
+14:48:25.712 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+14:48:25.712 WARN  config.js: OWNER_IDS are empty 
+14:48:25.713 WARN  config.js: SUPPORT_SERVER is not provided 
+14:48:25.713 INFO  Connecting to MongoDb... 
+14:48:30.898 INFO  Mongoose: Database connection established 
+14:48:33.430 INFO  Logged in as auxx.bot#4341! (980696265576841217) 
+14:48:33.430 INFO  Initializing music manager 
+14:48:33.782 INFO  Node "54.37.6.86" connected 
+14:51:02.108 INFO  Loading commands... 
+14:51:02.203 DEBUG Skipping slash command avatar. Disabled! 
+14:51:02.205 DEBUG Skipping slash command botinvite. Disabled! 
+14:51:02.209 DEBUG Skipping slash command botstats. Disabled! 
+14:51:02.211 DEBUG Skipping slash command channelinfo. Disabled! 
+14:51:02.213 DEBUG Skipping slash command emojiinfo. Disabled! 
+14:51:02.218 DEBUG Skipping slash command guildinfo. Disabled! 
+14:51:02.228 DEBUG Skipping command bot. Disabled! 
+14:51:02.229 DEBUG Skipping command info. Disabled! 
+14:51:02.230 DEBUG Skipping slash command uptime. Disabled! 
+14:51:02.231 DEBUG Skipping slash command userinfo. Disabled! 
+14:51:02.249 DEBUG Skipping slash command deafen. Disabled! 
+14:51:02.251 DEBUG Skipping slash command disconnect. Disabled! 
+14:51:02.253 DEBUG Skipping slash command move. Disabled! 
+14:51:02.255 DEBUG Skipping slash command purge. Disabled! 
+14:51:02.256 DEBUG Skipping slash command purgeattach. Disabled! 
+14:51:02.257 DEBUG Skipping slash command purgebots. Disabled! 
+14:51:02.260 DEBUG Skipping slash command purgelinks. Disabled! 
+14:51:02.261 DEBUG Skipping slash command purgetoken. Disabled! 
+14:51:02.262 DEBUG Skipping slash command purgeuser. Disabled! 
+14:51:02.265 DEBUG Skipping command purge. Disabled! 
+14:51:02.267 DEBUG Skipping command voice. Disabled! 
+14:51:02.270 DEBUG Skipping slash command undeafen. Disabled! 
+14:51:02.272 DEBUG Skipping slash command vmute. Disabled! 
+14:51:02.273 DEBUG Skipping slash command vunmute. Disabled! 
+14:51:02.315 INFO  Loaded 89 commands 
+14:51:02.315 INFO  Loaded 73 slash commands 
+14:51:02.315 INFO  Loading contexts... 
+14:51:02.319 INFO  Loaded 2 USER contexts 
+14:51:02.320 INFO  Loaded 0 MESSAGE contexts 
+14:51:02.320 INFO  Loading events... 
+14:51:02.377 INFO  Loaded 22 events. Success (22) Failed (0) 
+14:51:02.991 INFO  VersionCheck: Your discord bot is up to date 
+14:51:02.992 INFO  Validating config.js and environment variables 
+14:51:02.992 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+14:51:02.992 WARN  config.js: OWNER_IDS are empty 
+14:51:02.993 WARN  config.js: SUPPORT_SERVER is not provided 
+14:51:02.993 INFO  Connecting to MongoDb... 
+14:51:08.254 INFO  Mongoose: Database connection established 
+14:51:11.181 INFO  Logged in as auxx.bot#4341! (980696265576841217) 
+14:51:11.182 INFO  Initializing music manager 
+14:51:11.517 INFO  Node "54.37.6.86" connected 
+14:59:28.263 INFO  Loading commands... 
+14:59:28.359 DEBUG Skipping slash command avatar. Disabled! 
+14:59:28.361 DEBUG Skipping slash command botinvite. Disabled! 
+14:59:28.366 DEBUG Skipping slash command botstats. Disabled! 
+14:59:28.371 DEBUG Skipping slash command channelinfo. Disabled! 
+14:59:28.373 DEBUG Skipping slash command emojiinfo. Disabled! 
+14:59:28.376 DEBUG Skipping slash command guildinfo. Disabled! 
+14:59:28.385 DEBUG Skipping command bot. Disabled! 
+14:59:28.387 DEBUG Skipping command info. Disabled! 
+14:59:28.388 DEBUG Skipping slash command uptime. Disabled! 
+14:59:28.390 DEBUG Skipping slash command userinfo. Disabled! 
+14:59:28.409 DEBUG Skipping slash command deafen. Disabled! 
+14:59:28.411 DEBUG Skipping slash command disconnect. Disabled! 
+14:59:28.414 DEBUG Skipping slash command move. Disabled! 
+14:59:28.416 DEBUG Skipping slash command purge. Disabled! 
+14:59:28.416 DEBUG Skipping slash command purgeattach. Disabled! 
+14:59:28.420 DEBUG Skipping slash command purgebots. Disabled! 
+14:59:28.421 DEBUG Skipping slash command purgelinks. Disabled! 
+14:59:28.422 DEBUG Skipping slash command purgetoken. Disabled! 
+14:59:28.423 DEBUG Skipping slash command purgeuser. Disabled! 
+14:59:28.426 DEBUG Skipping command purge. Disabled! 
+14:59:28.428 DEBUG Skipping command voice. Disabled! 
+14:59:28.431 DEBUG Skipping slash command undeafen. Disabled! 
+14:59:28.433 DEBUG Skipping slash command vmute. Disabled! 
+14:59:28.434 DEBUG Skipping slash command vunmute. Disabled! 
+14:59:28.475 INFO  Loaded 89 commands 
+14:59:28.475 INFO  Loaded 73 slash commands 
+14:59:28.476 INFO  Loading contexts... 
+14:59:28.479 INFO  Loaded 2 USER contexts 
+14:59:28.480 INFO  Loaded 0 MESSAGE contexts 
+14:59:28.480 INFO  Loading events... 
+14:59:28.542 INFO  Loaded 22 events. Success (22) Failed (0) 
+14:59:29.131 INFO  VersionCheck: Your discord bot is up to date 
+14:59:29.132 INFO  Validating config.js and environment variables 
+14:59:29.132 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+14:59:29.132 WARN  config.js: OWNER_IDS are empty 
+14:59:29.133 WARN  config.js: SUPPORT_SERVER is not provided 
+14:59:29.133 INFO  Connecting to MongoDb... 
+14:59:34.444 INFO  Mongoose: Database connection established 
+14:59:36.595 INFO  Logged in as auxx.bot#4341! (980696265576841217) 
+14:59:36.596 INFO  Initializing music manager 
+14:59:36.922 INFO  Node "54.37.6.86" connected 
+15:00:05.406 INFO  Loading commands... 
+15:00:05.498 DEBUG Skipping slash command avatar. Disabled! 
+15:00:05.500 DEBUG Skipping slash command botinvite. Disabled! 
+15:00:05.503 DEBUG Skipping slash command botstats. Disabled! 
+15:00:05.505 DEBUG Skipping slash command channelinfo. Disabled! 
+15:00:05.507 DEBUG Skipping slash command emojiinfo. Disabled! 
+15:00:05.513 DEBUG Skipping slash command guildinfo. Disabled! 
+15:00:05.524 DEBUG Skipping command bot. Disabled! 
+15:00:05.525 DEBUG Skipping command info. Disabled! 
+15:00:05.526 DEBUG Skipping slash command uptime. Disabled! 
+15:00:05.527 DEBUG Skipping slash command userinfo. Disabled! 
+15:00:05.545 DEBUG Skipping slash command deafen. Disabled! 
+15:00:05.547 DEBUG Skipping slash command disconnect. Disabled! 
+15:00:05.549 DEBUG Skipping slash command move. Disabled! 
+15:00:05.551 DEBUG Skipping slash command purge. Disabled! 
+15:00:05.552 DEBUG Skipping slash command purgeattach. Disabled! 
+15:00:05.553 DEBUG Skipping slash command purgebots. Disabled! 
+15:00:05.554 DEBUG Skipping slash command purgelinks. Disabled! 
+15:00:05.555 DEBUG Skipping slash command purgetoken. Disabled! 
+15:00:05.558 DEBUG Skipping slash command purgeuser. Disabled! 
+15:00:05.561 DEBUG Skipping command purge. Disabled! 
+15:00:05.563 DEBUG Skipping command voice. Disabled! 
+15:00:05.565 DEBUG Skipping slash command undeafen. Disabled! 
+15:00:05.567 DEBUG Skipping slash command vmute. Disabled! 
+15:00:05.568 DEBUG Skipping slash command vunmute. Disabled! 
+15:00:05.607 INFO  Loaded 89 commands 
+15:00:05.607 INFO  Loaded 73 slash commands 
+15:00:05.608 INFO  Loading contexts... 
+15:00:05.612 INFO  Loaded 2 USER contexts 
+15:00:05.612 INFO  Loaded 0 MESSAGE contexts 
+15:00:05.613 INFO  Loading events... 
+15:00:05.672 INFO  Loaded 22 events. Success (22) Failed (0) 
+15:00:06.240 INFO  VersionCheck: Your discord bot is up to date 
+15:00:06.241 INFO  Validating config.js and environment variables 
+15:00:06.241 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+15:00:06.241 WARN  config.js: OWNER_IDS are empty 
+15:00:06.241 WARN  config.js: SUPPORT_SERVER is not provided 
+15:00:06.242 INFO  Connecting to MongoDb... 
+15:00:11.748 INFO  Mongoose: Database connection established 
+15:00:13.580 INFO  Logged in as auxx.bot#4341! (980696265576841217) 
+15:00:13.581 INFO  Initializing music manager 
+15:00:13.905 INFO  Node "54.37.6.86" connected 
+15:01:25.747 INFO  Loading commands... 
+15:01:25.837 DEBUG Skipping slash command avatar. Disabled! 
+15:01:25.839 DEBUG Skipping slash command botinvite. Disabled! 
+15:01:25.843 DEBUG Skipping slash command botstats. Disabled! 
+15:01:25.845 DEBUG Skipping slash command channelinfo. Disabled! 
+15:01:25.847 DEBUG Skipping slash command emojiinfo. Disabled! 
+15:01:25.849 DEBUG Skipping slash command guildinfo. Disabled! 
+15:01:25.859 DEBUG Skipping command bot. Disabled! 
+15:01:25.860 DEBUG Skipping command info. Disabled! 
+15:01:25.861 DEBUG Skipping slash command uptime. Disabled! 
+15:01:25.862 DEBUG Skipping slash command userinfo. Disabled! 
+15:01:25.879 DEBUG Skipping slash command deafen. Disabled! 
+15:01:25.881 DEBUG Skipping slash command disconnect. Disabled! 
+15:01:25.883 DEBUG Skipping slash command move. Disabled! 
+15:01:25.885 DEBUG Skipping slash command purge. Disabled! 
+15:01:25.886 DEBUG Skipping slash command purgeattach. Disabled! 
+15:01:25.887 DEBUG Skipping slash command purgebots. Disabled! 
+15:01:25.888 DEBUG Skipping slash command purgelinks. Disabled! 
+15:01:25.889 DEBUG Skipping slash command purgetoken. Disabled! 
+15:01:25.890 DEBUG Skipping slash command purgeuser. Disabled! 
+15:01:25.893 DEBUG Skipping command purge. Disabled! 
+15:01:25.897 DEBUG Skipping command voice. Disabled! 
+15:01:25.899 DEBUG Skipping slash command undeafen. Disabled! 
+15:01:25.901 DEBUG Skipping slash command vmute. Disabled! 
+15:01:25.902 DEBUG Skipping slash command vunmute. Disabled! 
+15:01:25.940 INFO  Loaded 88 commands 
+15:01:25.940 INFO  Loaded 72 slash commands 
+15:01:25.940 INFO  Loading contexts... 
+15:01:25.944 INFO  Loaded 2 USER contexts 
+15:01:25.944 INFO  Loaded 0 MESSAGE contexts 
+15:01:25.945 INFO  Loading events... 
+15:01:26.003 INFO  Loaded 22 events. Success (22) Failed (0) 
+15:01:26.578 INFO  VersionCheck: Your discord bot is up to date 
+15:01:26.578 INFO  Validating config.js and environment variables 
+15:01:26.578 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+15:01:26.579 WARN  config.js: OWNER_IDS are empty 
+15:01:26.579 WARN  config.js: SUPPORT_SERVER is not provided 
+15:01:26.580 INFO  Connecting to MongoDb... 
+15:01:31.934 INFO  Mongoose: Database connection established 
+15:01:34.272 INFO  Logged in as auxx.bot#4341! (980696265576841217) 
+15:01:34.272 INFO  Initializing music manager 
+15:01:34.598 INFO  Node "54.37.6.86" connected 
+15:01:37.985 INFO  Loading commands... 
+15:01:38.049 ERROR Failed to load react.js Reason: Command react already registered 
+15:01:38.075 DEBUG Skipping slash command avatar. Disabled! 
+15:01:38.078 DEBUG Skipping slash command botinvite. Disabled! 
+15:01:38.082 DEBUG Skipping slash command botstats. Disabled! 
+15:01:38.084 DEBUG Skipping slash command channelinfo. Disabled! 
+15:01:38.086 DEBUG Skipping slash command emojiinfo. Disabled! 
+15:01:38.088 DEBUG Skipping slash command guildinfo. Disabled! 
+15:01:38.099 DEBUG Skipping command bot. Disabled! 
+15:01:38.100 DEBUG Skipping command info. Disabled! 
+15:01:38.102 DEBUG Skipping slash command uptime. Disabled! 
+15:01:38.103 DEBUG Skipping slash command userinfo. Disabled! 
+15:01:38.121 DEBUG Skipping slash command deafen. Disabled! 
+15:01:38.123 DEBUG Skipping slash command disconnect. Disabled! 
+15:01:38.125 DEBUG Skipping slash command move. Disabled! 
+15:01:38.127 DEBUG Skipping slash command purge. Disabled! 
+15:01:38.128 DEBUG Skipping slash command purgeattach. Disabled! 
+15:01:38.129 DEBUG Skipping slash command purgebots. Disabled! 
+15:01:38.130 DEBUG Skipping slash command purgelinks. Disabled! 
+15:01:38.131 DEBUG Skipping slash command purgetoken. Disabled! 
+15:01:38.131 DEBUG Skipping slash command purgeuser. Disabled! 
+15:01:38.137 DEBUG Skipping command purge. Disabled! 
+15:01:38.139 DEBUG Skipping command voice. Disabled! 
+15:01:38.141 DEBUG Skipping slash command undeafen. Disabled! 
+15:01:38.143 DEBUG Skipping slash command vmute. Disabled! 
+15:01:38.144 DEBUG Skipping slash command vunmute. Disabled! 
+15:01:38.182 INFO  Loaded 88 commands 
+15:01:38.182 INFO  Loaded 72 slash commands 
+15:01:38.182 INFO  Loading contexts... 
+15:01:38.186 INFO  Loaded 2 USER contexts 
+15:01:38.186 INFO  Loaded 0 MESSAGE contexts 
+15:01:38.187 INFO  Loading events... 
+15:01:38.250 INFO  Loaded 22 events. Success (22) Failed (0) 
+15:01:38.499 INFO  VersionCheck: Your discord bot is up to date 
+15:01:38.499 INFO  Validating config.js and environment variables 
+15:01:38.500 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+15:01:38.500 WARN  config.js: OWNER_IDS are empty 
+15:01:38.500 WARN  config.js: SUPPORT_SERVER is not provided 
+15:01:38.501 INFO  Connecting to MongoDb... 
+15:01:43.717 INFO  Mongoose: Database connection established 
+15:01:45.644 INFO  Logged in as auxx.bot#4341! (980696265576841217) 
+15:01:45.644 INFO  Initializing music manager 
+15:01:45.975 INFO  Node "54.37.6.86" connected 
+15:02:36.305 INFO  Loading commands... 
+15:02:36.396 DEBUG Skipping slash command avatar. Disabled! 
+15:02:36.398 DEBUG Skipping slash command botinvite. Disabled! 
+15:02:36.402 DEBUG Skipping slash command botstats. Disabled! 
+15:02:36.403 DEBUG Skipping slash command channelinfo. Disabled! 
+15:02:36.405 DEBUG Skipping slash command emojiinfo. Disabled! 
+15:02:36.407 DEBUG Skipping slash command guildinfo. Disabled! 
+15:02:36.420 DEBUG Skipping command bot. Disabled! 
+15:02:36.421 DEBUG Skipping command info. Disabled! 
+15:02:36.422 DEBUG Skipping slash command uptime. Disabled! 
+15:02:36.423 DEBUG Skipping slash command userinfo. Disabled! 
+15:02:36.442 DEBUG Skipping slash command deafen. Disabled! 
+15:02:36.443 DEBUG Skipping slash command disconnect. Disabled! 
+15:02:36.446 DEBUG Skipping slash command move. Disabled! 
+15:02:36.448 DEBUG Skipping slash command purge. Disabled! 
+15:02:36.449 DEBUG Skipping slash command purgeattach. Disabled! 
+15:02:36.450 DEBUG Skipping slash command purgebots. Disabled! 
+15:02:36.451 DEBUG Skipping slash command purgelinks. Disabled! 
+15:02:36.452 DEBUG Skipping slash command purgetoken. Disabled! 
+15:02:36.453 DEBUG Skipping slash command purgeuser. Disabled! 
+15:02:36.456 DEBUG Skipping command purge. Disabled! 
+15:02:36.459 DEBUG Skipping command voice. Disabled! 
+15:02:36.462 DEBUG Skipping slash command undeafen. Disabled! 
+15:02:36.464 DEBUG Skipping slash command vmute. Disabled! 
+15:02:36.465 DEBUG Skipping slash command vunmute. Disabled! 
+15:02:36.504 INFO  Loaded 89 commands 
+15:02:36.505 INFO  Loaded 73 slash commands 
+15:02:36.505 INFO  Loading contexts... 
+15:02:36.509 INFO  Loaded 2 USER contexts 
+15:02:36.509 INFO  Loaded 0 MESSAGE contexts 
+15:02:36.509 INFO  Loading events... 
+15:02:36.654 INFO  Loaded 22 events. Success (22) Failed (0) 
+15:02:37.230 INFO  VersionCheck: Your discord bot is up to date 
+15:02:37.230 INFO  Validating config.js and environment variables 
+15:02:37.230 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+15:02:37.231 WARN  config.js: OWNER_IDS are empty 
+15:02:37.231 WARN  config.js: SUPPORT_SERVER is not provided 
+15:02:37.231 INFO  Connecting to MongoDb... 
+15:02:42.478 INFO  Mongoose: Database connection established 
+15:02:44.417 INFO  Logged in as auxx.bot#4341! (980696265576841217) 
+15:02:44.417 INFO  Initializing music manager 
+15:02:44.745 INFO  Node "54.37.6.86" connected 
+15:21:37.232 INFO  Guild Joined: 𝘼𝙀𝙎𝙏𝙃𝙀𝙏𝙄𝘾 𝙃𝙐𝘽 <3 Members: 498 
+15:46:38.293 INFO  Loading commands... 
+15:46:38.414 DEBUG Skipping slash command avatar. Disabled! 
+15:46:38.417 DEBUG Skipping slash command botinvite. Disabled! 
+15:46:38.423 DEBUG Skipping slash command botstats. Disabled! 
+15:46:38.426 DEBUG Skipping slash command channelinfo. Disabled! 
+15:46:38.428 DEBUG Skipping slash command emojiinfo. Disabled! 
+15:46:38.431 DEBUG Skipping slash command guildinfo. Disabled! 
+15:46:38.444 DEBUG Skipping command bot. Disabled! 
+15:46:38.446 DEBUG Skipping command info. Disabled! 
+15:46:38.448 DEBUG Skipping slash command uptime. Disabled! 
+15:46:38.449 DEBUG Skipping slash command userinfo. Disabled! 
+15:46:38.473 DEBUG Skipping slash command deafen. Disabled! 
+15:46:38.476 DEBUG Skipping slash command disconnect. Disabled! 
+15:46:38.479 DEBUG Skipping slash command move. Disabled! 
+15:46:38.482 DEBUG Skipping slash command purge. Disabled! 
+15:46:38.483 DEBUG Skipping slash command purgeattach. Disabled! 
+15:46:38.485 DEBUG Skipping slash command purgebots. Disabled! 
+15:46:38.487 DEBUG Skipping slash command purgelinks. Disabled! 
+15:46:38.492 DEBUG Skipping slash command purgetoken. Disabled! 
+15:46:38.494 DEBUG Skipping slash command purgeuser. Disabled! 
+15:46:38.499 DEBUG Skipping command purge. Disabled! 
+15:46:38.508 DEBUG Skipping command voice. Disabled! 
+15:46:38.517 DEBUG Skipping slash command undeafen. Disabled! 
+15:46:38.524 DEBUG Skipping slash command vmute. Disabled! 
+15:46:38.526 DEBUG Skipping slash command vunmute. Disabled! 
+15:46:38.596 INFO  Loaded 89 commands 
+15:46:38.598 INFO  Loaded 73 slash commands 
+15:46:38.598 INFO  Loading contexts... 
+15:46:38.605 INFO  Loaded 2 USER contexts 
+15:46:38.605 INFO  Loaded 0 MESSAGE contexts 
+15:46:38.605 INFO  Loading events... 
+15:46:38.699 INFO  Loaded 22 events. Success (22) Failed (0) 
+15:46:39.330 INFO  VersionCheck: Your discord bot is up to date 
+15:46:39.331 INFO  Validating config.js and environment variables 
+15:46:39.331 WARN  env: WEATHERSTACK_KEY is missing. Weather command won't work 
+15:46:39.331 WARN  config.js: OWNER_IDS are empty 
+15:46:39.332 WARN  config.js: SUPPORT_SERVER is not provided 
+15:46:39.332 INFO  Connecting to MongoDb... 
+15:46:44.616 INFO  Mongoose: Database connection established 
+15:46:47.577 INFO  Logged in as auxx.bot#4341! (980696265576841217) 
+15:46:47.577 INFO  Initializing music manager 
+15:46:47.922 INFO  Node "54.37.6.86" connected 
